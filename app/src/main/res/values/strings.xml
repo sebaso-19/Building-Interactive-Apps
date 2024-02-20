@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TransporteDeProductos</string>
+    <string name="find_product">Find product!</string>
+    <string name="brands">No selected products</string>
+
+    <string-array name="products">
+        <item>Solido</item>
+        <item>Agricola</item>
+        <item>Liquidos</item>
+    </string-array>
+
+    <string-array name="productsSolido">
+        <item>Concreto</item>
+        <item>Piedra</item>
+        <item>Vidrio</item>
+        <item>Arena</item>
+    </string-array>
+
+    <string-array name="productsLiquido">
+        <item>Agua</item>
+        <item>Gasolina</item>
+        <item>Petroleo</item>
+    </string-array>
+
+    <string-array name="productsAgricola">
+        <item>Maiz</item>
+        <item>Tomate</item>
+        <item>Zanahoria</item>
+        <item>Lechuga</item>
+        <item>cebolla</item>
+        <item>Semillas</item>
+    </string-array>
+
+</resources>
